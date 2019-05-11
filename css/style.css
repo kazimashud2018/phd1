@@ -1,0 +1,277 @@
+
+/*=========================== Global Css ============================*/
+
+section {
+	padding: 0;
+}
+h1 {
+	color: #fff;
+    font-size: 50px;
+}
+h2 {
+	color: #fff;
+	font-size: 20px;
+}
+h3 {
+		color: #fff;
+	font-size: 20px;
+	margin-top: 20px;
+
+}
+h4 {
+color: #2a5da3;
+
+}
+
+p{
+	color: #55667e;
+	margin-top: 20px;
+}
+
+
+span{
+	color: #2a5da3;
+}
+
+.no-pad {
+	padding: 0;
+}
+.t-center {
+	text-align: center;
+}
+.new-font {
+	font-family: 'Bree Serif', serif;
+}
+.arial-font {
+	font-family: arial;
+}
+.color-black {
+	color:#31353e!important;
+}
+
+/* All Button CSS */
+.btn {
+	background: transparent;
+	border: 2px solid #153b6d;
+	padding: 10px 50px;
+	margin-top: 40px;
+	color:white;
+	margin-bottom: 200px;
+	border-radius: 20px;
+} 
+
+
+
+
+
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+
+
+
+/*========================= Navigation ==================================*/
+
+
+
+.navbar{
+	background-color: #0a2345;
+	padding: 10px 0;
+}
+.nav-link {
+	color: white!important;
+    background-color: transparent;
+    border-radius: 30px;
+    padding: 5px 15px!important;
+    font-size: 14px;
+}
+.nav-link:hover {
+	color: white!important;
+}
+
+
+/*========================= Hero Section ========================= */
+
+.hero {
+	background-color: #0a2345;
+}
+
+
+
+.hero-text {
+
+}
+.hero-text h3{
+	margin-top: 200px;
+}
+.hero-text h4 {
+		
+	margin-bottom: 80px;
+}
+
+/*----------Hero Section Button-------------*/
+
+.hero-btn button{
+	margin: 30% 140px;
+	margin-top: 10px;
+	margin-left: 75px;
+	margin-right: 20px;
+
+
+}
+
+
+/*==================== News Section ==================== */
+
+.news {
+	padding: 0 auto;
+	background: url(../img/123back.png)no-repeat;
+	background-color: #0a2345;
+}
+
+.news-text {
+	margin-bottom: 55px;
+}
+
+.news-box {
+	padding: 0;
+}
+.news-box img {
+	width: 125%;
+
+}
+
+
+/*==================== music Section ==================== */
+
+.music {
+	padding: 0 auto;
+	background-color: #0a2345;
+}
+
+
+.music-boxs {
+	margin-left:-120px;
+}
+
+
+.music-box img {
+	width: 125%;
+	margin-right:30px;
+
+
+}
+
+
+.music-box {
+
+	margin: 80px auto;
+	margin-right: 100px;
+
+}
+
+
+
+/*==================== music Section ==================== */
+
+.zero {
+
+	background-color: #0a2345;
+
+
+}
+
+.zero-box {
+	margin-top: 100px;
+
+}
+
+
+.zero-box img {
+
+}
+	
+.zero-boxs {
+	margin-top:-110px;
+     margin-left:-150px;
+
+ 
+}
+
+
+
+
+/*==================== music Section ==================== */
+
+.classic {
+	padding: 0 auto;
+	background-color: #0a2345;
+}
+
+.classic-boxs {
+	margin-top: 200px;
+}
+
+
+/*==================== last Section ==================== */
+
+.last {
+	background-color: #030913;
+}
+
+
+
+
+.last-text h3{
+	margin-top: 200px;
+}
+.last-text h4 {
+		
+	margin-bottom: 80px;
+}
+
+
+/*==================== last Section End ==================== */
+
+
+
+/*==================== footer Section ==================== */
+
+
+footer{
+	background-color: #020103;
+}
+
+
+.footer-text ul{
+margin-top:20px;
+
+}
+
+
+.footer-text ul li{
+	font:left;
+	display:inline;
+	padding: 0 20px 0 20px;
+}
+
+.footer-text ul li a
+{
+	text-decoration:none;
+	color:#14396a;
+}
+
+.social{
+	color:#14396a;
+
+
+
+}
+
+/*==================== footer Section End ==================== */
+
+
+
